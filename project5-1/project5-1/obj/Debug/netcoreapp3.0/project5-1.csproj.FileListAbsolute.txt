@@ -1,0 +1,11 @@
+C:\repos\C#-instruction\project5-1\project5-1\bin\Debug\netcoreapp3.0\project5-1.exe
+C:\repos\C#-instruction\project5-1\project5-1\obj\Debug\netcoreapp3.0\project5-1.csprojAssemblyReference.cache
+C:\repos\C#-instruction\project5-1\project5-1\obj\Debug\netcoreapp3.0\project5-1.AssemblyInfoInputs.cache
+C:\repos\C#-instruction\project5-1\project5-1\obj\Debug\netcoreapp3.0\project5-1.AssemblyInfo.cs
+C:\repos\C#-instruction\project5-1\project5-1\bin\Debug\netcoreapp3.0\project5-1.deps.json
+C:\repos\C#-instruction\project5-1\project5-1\bin\Debug\netcoreapp3.0\project5-1.runtimeconfig.json
+C:\repos\C#-instruction\project5-1\project5-1\bin\Debug\netcoreapp3.0\project5-1.runtimeconfig.dev.json
+C:\repos\C#-instruction\project5-1\project5-1\bin\Debug\netcoreapp3.0\project5-1.dll
+C:\repos\C#-instruction\project5-1\project5-1\bin\Debug\netcoreapp3.0\project5-1.pdb
+C:\repos\C#-instruction\project5-1\project5-1\obj\Debug\netcoreapp3.0\project5-1.dll
+C:\repos\C#-instruction\project5-1\project5-1\obj\Debug\netcoreapp3.0\project5-1.pdb

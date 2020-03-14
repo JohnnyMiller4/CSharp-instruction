@@ -1,0 +1,11 @@
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\bin\Debug\netcoreapp3.0\BootcampCSharpDay1.exe
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\bin\Debug\netcoreapp3.0\BootcampCSharpDay1.deps.json
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\bin\Debug\netcoreapp3.0\BootcampCSharpDay1.runtimeconfig.json
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\bin\Debug\netcoreapp3.0\BootcampCSharpDay1.runtimeconfig.dev.json
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\bin\Debug\netcoreapp3.0\BootcampCSharpDay1.dll
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\bin\Debug\netcoreapp3.0\BootcampCSharpDay1.pdb
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\obj\Debug\netcoreapp3.0\BootcampCSharpDay1.csprojAssemblyReference.cache
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\obj\Debug\netcoreapp3.0\BootcampCSharpDay1.AssemblyInfoInputs.cache
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\obj\Debug\netcoreapp3.0\BootcampCSharpDay1.AssemblyInfo.cs
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\obj\Debug\netcoreapp3.0\BootcampCSharpDay1.dll
+C:\repos\C#-instruction\BootcampCSharpDay1\BootcampCSharpDay1\obj\Debug\netcoreapp3.0\BootcampCSharpDay1.pdb

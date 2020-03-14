@@ -1,0 +1,11 @@
+C:\repos\C#-instruction\ProductManager\ProductManager\bin\Debug\netcoreapp3.0\ProductManager.exe
+C:\repos\C#-instruction\ProductManager\ProductManager\bin\Debug\netcoreapp3.0\ProductManager.deps.json
+C:\repos\C#-instruction\ProductManager\ProductManager\bin\Debug\netcoreapp3.0\ProductManager.runtimeconfig.json
+C:\repos\C#-instruction\ProductManager\ProductManager\bin\Debug\netcoreapp3.0\ProductManager.runtimeconfig.dev.json
+C:\repos\C#-instruction\ProductManager\ProductManager\bin\Debug\netcoreapp3.0\ProductManager.dll
+C:\repos\C#-instruction\ProductManager\ProductManager\bin\Debug\netcoreapp3.0\ProductManager.pdb
+C:\repos\C#-instruction\ProductManager\ProductManager\obj\Debug\netcoreapp3.0\ProductManager.csprojAssemblyReference.cache
+C:\repos\C#-instruction\ProductManager\ProductManager\obj\Debug\netcoreapp3.0\ProductManager.AssemblyInfoInputs.cache
+C:\repos\C#-instruction\ProductManager\ProductManager\obj\Debug\netcoreapp3.0\ProductManager.AssemblyInfo.cs
+C:\repos\C#-instruction\ProductManager\ProductManager\obj\Debug\netcoreapp3.0\ProductManager.dll
+C:\repos\C#-instruction\ProductManager\ProductManager\obj\Debug\netcoreapp3.0\ProductManager.pdb
